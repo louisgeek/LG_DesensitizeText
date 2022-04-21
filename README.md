@@ -62,3 +62,15 @@ et.addTextChangedListener(object : TextWatcher {
 ![4](https://github.com/louisgeek/LG_DesensitizeText/blob/main/screenshots/pic4.png)
 
 ![5](https://github.com/louisgeek/LG_DesensitizeText/blob/main/screenshots/pic5.png)
+
+
+
+![](https://s2.loli.net/2022/04/22/1QkvNgG7F9VAUCI.png)
+
+![pic2](https://s2.loli.net/2022/04/22/vaO6HVZb1Djc5NP.png)
+
+![pic3](https://s2.loli.net/2022/04/22/eGD5wZivT7pjqJy.png)
+
+![pic4](https://s2.loli.net/2022/04/22/kLH39mKQYGz6aIq.png)
+
+![pic5](https://s2.loli.net/2022/04/22/8AsciCbMZgIVpJ9.png)
